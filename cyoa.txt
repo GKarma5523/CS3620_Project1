@@ -5,33 +5,9 @@ There are three doors where the night before there was only one. At least that's
 you make your way towards the newly discovered doors. None of them look like your door and all of them look out of place. 
 Do you aproach the doors or do you go back to bed as this is all a bad dream?
 
-Approach
+Bed
 
-You make your way to the doors and notice that they are all different. They seem out of place. Hesitantly you 
-look at each door not seeing your door anywhere. So which door do you choose?
-
-Door 1
-
-You walk up to the first door and notice it is made of wood. You try to open the door and it is locked. 
-You look around and see a key on the ground. Do you pick up the key or do you go to the next door?
-
-Pick Up
-
-You pick up the key and try to open the door. You turn the key and the door opens. 
-You walk through the door and find yourself in an old castle hallway lined with paintings. 
-You look left and right down the two hallways. Do you go left or right?
-
-Left
-
-You walk down the left hallway and see a small door at the end with light coming from under it. 
-There is a faint smell of cooking bread that fills your nose. Moving towards the door, you notice the hallway 
-is getting smaller and smaller. By the time you get to the door, your on your hands and knees. You hear voices 
-coming from the other side of the door. Do you knock or do you peek in?
-
-Peek
-
-You decide to peak in and see a small room with a table and chairs. There are people sitting and 
-talking but something is off. They are all looking at you. And if that was creepy enough, they all look 
-just like you. To the exact detail. You turn around and run back down the hallway. You hear a loud bang 
-and the door slams shut. You run down the hallway and see the door is locked. You try to open it but it 
-won't budge. You scream as the shadows slink towards you and FLASH you wake up in your bed.
+You decide to go back to bed and hope this is all a bad dream. You lay down and close your eyes. 
+You feel yourself falling asleep and then you wake up again. You wake up back in your room with nothing unusual. 
+You walk around looking at everything before noticing the footprints on your floor. They end at the wall. 
+Do you examine the footprints or ignore them?
